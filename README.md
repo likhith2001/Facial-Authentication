@@ -1,2 +1,2 @@
 # Facial-Authentication
-Face Authentication developed for Aadhar Hackathon 2021
+Face Authentication Software developed for Aadhar Hackathon 2021
